@@ -1,2 +1,2 @@
-pandas
-rarfile
+pandas==1.5.3
+rarfile==4.0
