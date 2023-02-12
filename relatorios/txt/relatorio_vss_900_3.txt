@@ -1,0 +1,121 @@
+REPORT ID:  VSS-900                                         VISANET SETTLEMENT SERVICE                        PAGE:              1  
+ REPORTING FOR:      9000392692 BANCO CBSS                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   08AUG20  
+                                                             RECONCILIATION REPORT                             REPORT DATE: 08AUG20  
+                                                                                                                                     
+ CLEARING CURRENCY:  USD                                                                                                             
+ BUSINESS MODE:      ISSUER TRANSACTIONS                                                                                             
+                                                                                                                                     
+                                           CRS                COUNT             CLEARING            TOTAL                 TOTAL      
+                                           DATE                                 AMOUNT              COUNT                 CLEARING   
+                                                                                                                          AMOUNT     
+ PURCHASE                                                                                                                            
+     ORIGINAL SALE                                                                                                                   
+         RECEIVED FROM VISA                                    641           10,908.78DB                                             
+       TOTAL SENT TO SETTLEMENT                                                                       641              10,908.78DB   
+                                                                                                                                     
+     ORIGINAL SALE REVERSAL                                                                                                          
+         RECEIVED FROM VISA                                      1                9.45CR                                             
+       TOTAL SENT TO SETTLEMENT                                                                         1                   9.45CR   
+                                                                                                                                     
+     DISPUTE FIN                                                                                                                     
+         FROM VROL ORG        (+)                               32              529.31CR                                             
+       TOTAL SENT TO SETTLEMENT                                                                        32                 529.31CR   
+                                                                                                                                     
+     DISPUTE FIN REVERSAL                                                                                                            
+         FROM VROL ORG        (+)                                2               14.47DB                                             
+       TOTAL SENT TO SETTLEMENT                                                                         2                  14.47DB   
+                                                                                                                                     
+ TOTAL PURCHASE                                                                                                                      
+         RECEIVED FROM VISA                                    642           10,899.33DB                                             
+         FROM VROL ORG        (+)                               34              514.84CR                                             
+       TOTAL SENT TO SETTLEMENT                                                                       676              10,384.49DB   
+                                                                                                                                     
+       TOTAL TRANSACTIONS                                                                             676              10,384.49DB   
+                                                                                                                                     
+ MERCHANDISE CREDIT                                                                                                                  
+     ORIGINAL                                                                                                                        
+         RECEIVED FROM VISA                                     68              873.52CR                                             
+       TOTAL SENT TO SETTLEMENT                                                                        68                 873.52CR   
+                                                                                                                                     
+ TOTAL ISSUER TRANSACTIONS                                                                                                           
+       FINANCIAL TRANSACTIONS                                                                                                        
+         RECEIVED FROM VISA                                    710           10,025.81DB                                             
+         FROM VROL ORG        (+)                               34              514.84CR                                             
+       TOTAL SENT TO SETTLEMENT                                                                       744               9,510.97DB   
+                                                                                                                                     
+       TOTAL TRANSACTIONS                                                                             744               9,510.97DB   
+REPORT ID:  VSS-900                                         VISANET SETTLEMENT SERVICE                        PAGE:              2  
+ REPORTING FOR:      9000392692 BANCO CBSS                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   08AUG20  
+                                                             RECONCILIATION REPORT                             REPORT DATE: 08AUG20  
+                                                                                                                                     
+ CLEARING CURRENCY:  NONE                                                                                                            
+ BUSINESS MODE:      ISSUER TRANSACTIONS                                                                                             
+                                                                                                                                     
+                                           CRS                COUNT             CLEARING            TOTAL                 TOTAL      
+                                           DATE                                 AMOUNT              COUNT                 CLEARING   
+                                                                                                                          AMOUNT     
+ POS AUTHORIZATION                                                                                                                   
+       NON-FINANCIAL TRANSACTIONS                                                                                                    
+         RECEIVED FROM VISA                                266,542                                                                   
+       TOTAL NON-FINANCIAL                                                                        266,542                            
+                                                                                                                                     
+ POS AUTH REVERSAL                                                                                                                   
+       NON-FINANCIAL TRANSACTIONS                                                                                                    
+         RECEIVED FROM VISA                                  9,376                                                                   
+       TOTAL NON-FINANCIAL                                                                          9,376                            
+                                                                                                                                     
+ POS DECLINE                                                                                                                         
+       NON-FINANCIAL TRANSACTIONS                                                                                                    
+         RECEIVED FROM VISA                                      4                                                                   
+       TOTAL NON-FINANCIAL                                                                              4                            
+                                                                                                                                     
+ ATM DECLINE                                                                                                                         
+       NON-FINANCIAL TRANSACTIONS                                                                                                    
+         RECEIVED FROM VISA                                    162                                                                   
+       TOTAL NON-FINANCIAL                                                                            162                            
+                                                                                                                                     
+ TOTAL ISSUER TRANSACTIONS                                                                                                           
+       FINANCIAL TRANSACTIONS                                                                                                        
+                                                                                                                                     
+       NON-FINANCIAL TRANSACTIONS                                                                                                    
+         RECEIVED FROM VISA                                276,084                                                                   
+       TOTAL NON-FINANCIAL                                                                        276,084                            
+                                                                                                                                     
+       TOTAL TRANSACTIONS                                                                         276,084                            
+REPORT ID:  VSS-900                                         VISANET SETTLEMENT SERVICE                        PAGE:              3  
+ REPORTING FOR:      9000392692 BANCO CBSS                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   08AUG20  
+                                                             RECONCILIATION REPORT                             REPORT DATE: 08AUG20  
+                                                                                                                                     
+ CLEARING CURRENCY:  NONE                                                                                                            
+ BUSINESS MODE:      OTHER TRANSACTIONS                                                                                              
+                                                                                                                                     
+                                           CRS                COUNT             CLEARING            TOTAL                 TOTAL      
+                                           DATE                                 AMOUNT              COUNT                 CLEARING   
+                                                                                                                          AMOUNT     
+ DISPUTE FIN STATUS ADV                                                                                                              
+       NON-FINANCIAL TRANSACTIONS                                                                                                    
+         FROM VROL ORG        (+)                               34                                                                   
+       TOTAL NON-FINANCIAL                                                                             34                            
+                                                                                                                                     
+ TEXT MESSAGE                                                                                                                        
+       NON-FINANCIAL TRANSACTIONS                                                                                                    
+         RECEIVED FROM VISA                                    620                                                                   
+       TOTAL NON-FINANCIAL                                                                            620                            
+                                                                                                                                     
+ TABLE UPDATES                                                                                                                       
+       NON-FINANCIAL TRANSACTIONS                                                                                                    
+         RECEIVED FROM VISA                                  1,950                                                                   
+       TOTAL NON-FINANCIAL                                                                          1,950                            
+                                                                                                                                     
+ TOTAL OTHER TRANSACTIONS                                                                                                            
+       FINANCIAL TRANSACTIONS                                                                                                        
+                                                                                                                                     
+       NON-FINANCIAL TRANSACTIONS                                                                                                    
+         RECEIVED FROM VISA                                  2,570                                                                   
+         FROM VROL ORG        (+)                               34                                                                   
+       TOTAL NON-FINANCIAL                                                                          2,604                            
+                                                                                                                                     
+       TOTAL TRANSACTIONS                                                                           2,604                            
+                                                                                                                                     
+                                                                                                                                     
+                                                   *** END OF VSS-900 REPORT ***                                                     

@@ -1,0 +1,149 @@
+REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              1  
+ REPORTING FOR:      9000392692 BANCO CBSS                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06AUG20  
+ ROLLUP TO:          9000392692 BANCO CBSS                    REIMBURSEMENT FEES REPORT                        REPORT DATE: 06AUG20  
+ FUNDS XFER ENTITY:                                                                                                                  
+                                                                                                                                     
+ SETTLEMENT CURRENCY:  USD                                                                                                           
+                                                                                                REIMBURSEMENT         REIMBURSEMENT  
+                                                        COUNT              INTERCHANGE               FEE                   FEE       
+                                                                              AMOUNT               CREDITS                DEBITS     
+ ISSUER TRANSACTIONS                                                                                                                 
+                                                                                                                                     
+    PURCHASE                                                                                                                         
+       ORIGINAL SALE                                                                                                                 
+          VISA INTERNATIONAL                                                                                                         
+             A.P. - L.A.C.                                                                                                           
+                ELECTRONIC                                  1                  19.30DB                   0.21                        
+                STANDARD                                   28                 440.95DB                   7.06                        
+             TOTAL A.P. - L.A.C.                                                                         7.27                        
+             CANADA - L.A.C.                                                                                                         
+                STANDARD                                    7                 221.35DB                   3.55                        
+             E.U. - L.A.C.                                                                                                           
+                EEAINT CN CR                               12                 212.59DB                   0.64                        
+                EEAINT CNPCNCR                            364               5,677.63DB                  85.16                        
+                ELECTRONIC                                  1                  31.28DB                   0.34                        
+                STANDARD                                   12                 181.28DB                   2.90                        
+             TOTAL E.U. - L.A.C.                                                                        89.04                        
+             C.E.M.E.A - L.A.C.                                                                                                      
+                NONAUTHND MRCH                              1                  37.97DB                   0.55                        
+             U.S.A. - L.A.C.                                                                                                         
+                ELECTRONIC                                  3                  67.20DB                   0.74                        
+                NONAUTHND MRCH                              9                  79.31DB                   1.14                        
+                STANDARD                                  166               2,679.78DB                  42.87                        
+             TOTAL U.S.A. - L.A.C.                                                                      44.75                        
+          TOTAL VISA INTERNATIONAL                                                                     145.16                        
+                                                                                                                                     
+          VISA L.A.C.                                                                                                                
+             PARAGUAY - BRAZIL                                                                                                       
+                LAC ELECTRONIC                              2                  57.58DB                   0.63                        
+             PUERTORI - BRAZIL                                                                                                       
+                STANDARD                                    3                  25.64DB                   0.42                        
+          TOTAL VISA L.A.C.                                                                              1.05                        
+                                                                                                                                     
+       TOTAL ORIGINAL SALE                                                                             146.21                        
+                                                                                                                                     
+       DISPUTE FIN                                                                                                                   
+          VISA INTERNATIONAL                                                                                                         
+             L.A.C. - A.P.                                                                                                           
+                DISP FIN                                    6                  22.69CR                                         0.36  
+             L.A.C. - E.U.                                                                                                           
+                DISP FIN                                   16                 195.62CR                                         2.94  
+             L.A.C. - U.S.A.                                                                                                         
+                DISP FIN                                   13                 189.14CR                                         3.03  
+          TOTAL VISA INTERNATIONAL                                                                                             6.33  
+REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              2  
+ REPORTING FOR:      9000392692 BANCO CBSS                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06AUG20  
+ ROLLUP TO:          9000392692 BANCO CBSS                    REIMBURSEMENT FEES REPORT                        REPORT DATE: 06AUG20  
+ FUNDS XFER ENTITY:                                                                                                                  
+                                                                                                                                     
+ SETTLEMENT CURRENCY:  USD                                                                                                           
+                                                                                                REIMBURSEMENT         REIMBURSEMENT  
+                                                        COUNT              INTERCHANGE               FEE                   FEE       
+                                                                              AMOUNT               CREDITS                DEBITS     
+                                                                                                                                     
+          VISA L.A.C.                                                                                                                
+             BRAZIL - EL SALV.                                                                                                       
+                DISP FIN                                    3                  70.07CR                                         1.12  
+                                                                                                                                     
+       TOTAL DISPUTE FIN                                                                                                       7.45  
+                                                                                                                                     
+       DISPUTE FIN            RVRSL                                                                                                  
+          VISA INTERNATIONAL                                                                                                         
+             L.A.C. - E.U.                                                                                                           
+                DISP FIN RVRSL                              1                  37.03DB                   0.53                        
+             L.A.C. - U.S.A.                                                                                                         
+                DISP FIN RVRSL                              1                  10.00DB                   0.16                        
+          TOTAL VISA INTERNATIONAL                                                                       0.69                        
+                                                                                                                                     
+       DISPUTE RESP FIN                                                                                                              
+          VISA INTERNATIONAL                                                                                                         
+             A.P. - L.A.C.                                                                                                           
+                DISP RESP FIN                               1                  52.73DB                   0.84                        
+             E.U. - L.A.C.                                                                                                           
+                DISP RESP FIN                               1                  54.86DB                   0.81                        
+          TOTAL VISA INTERNATIONAL                                                                       1.65                        
+                                                                                                                                     
+    TOTAL PURCHASE                                        651               9,408.96DB                 148.55                  7.45  
+    NET   PURCHASE                                                                                     141.10                        
+                                                                                                                                     
+    MERCHANDISE CREDIT                                                                                                               
+       ORIGINAL                                                                                                                      
+          VISA INTERNATIONAL                                                                                                         
+             A.P. - L.A.C.                                                                                                           
+                STANDARD                                    6                 612.75CR                                         9.80  
+             E.U. - L.A.C.                                                                                                           
+                EEAINT VCHMR CR                            24                 603.93CR                   0.00                        
+             U.S.A. - L.A.C.                                                                                                         
+                CHIP ISS                                    4                 150.95CR                                         1.81  
+                STANDARD                                   19                 210.73CR                                         3.37  
+             TOTAL U.S.A. - L.A.C.                                                                                             5.18  
+          TOTAL VISA INTERNATIONAL                                                                                            14.98  
+                                                                                                                                     
+    TOTAL MERCHANDISE CREDIT                               53               1,578.36CR                                        14.98  
+    NET   MERCHANDISE CREDIT                                                                                                  14.98  
+REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              3  
+ REPORTING FOR:      9000392692 BANCO CBSS                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06AUG20  
+ ROLLUP TO:          9000392692 BANCO CBSS                    REIMBURSEMENT FEES REPORT                        REPORT DATE: 06AUG20  
+ FUNDS XFER ENTITY:                                                                                                                  
+                                                                                                                                     
+ SETTLEMENT CURRENCY:  USD                                                                                                           
+                                                                                                REIMBURSEMENT         REIMBURSEMENT  
+                                                        COUNT              INTERCHANGE               FEE                   FEE       
+                                                                              AMOUNT               CREDITS                DEBITS     
+                                                                                                                                     
+    ATM CASH                                                                                                                         
+       ORIGINAL WITHDRAWAL                                                                                                           
+          VISA INTERNATIONAL                                                                                                         
+             E.U. - L.A.C.                                                                                                           
+                ATM DCC NO AF                               1                  13.24DB                                         0.02  
+                ATM NO AF                                   1                 119.07DB                                         1.27  
+             TOTAL E.U. - L.A.C.                                                                                               1.29  
+                                                                                                                                     
+    TOTAL ATM CASH                                          2                 132.31DB                                         1.29  
+    NET   ATM CASH                                                                                                             1.29  
+                                                                                                                                     
+    ORIGINAL CREDIT                                                                                                                  
+       ORIGINAL                                                                                                                      
+          VISA INTERNATIONAL                                                                                                         
+             A.P. - L.A.C.                                                                                                           
+                ORIGINAL CREDIT                             1                  53.55CR                   0.29                        
+             E.U. - L.A.C.                                                                                                           
+                ORIGINAL CREDIT                             1                   9.41CR                   0.29                        
+          TOTAL VISA INTERNATIONAL                                                                       0.58                        
+                                                                                                                                     
+    TOTAL ORIGINAL CREDIT                                   2                  62.96CR                   0.58                        
+    NET   ORIGINAL CREDIT                                                                                0.58                        
+                                                                                                                                     
+    ATM DECLINE                                                                                                                      
+          VISA INTERNATIONAL                                                                                                         
+             E.U. - L.A.C.                                                                                                           
+                ATM DECLINE                                 2                   0.00                                           0.60  
+                                                                                                                                     
+    TOTAL ATM DECLINE                                       2                   0.00                                           0.60  
+    NET   ATM DECLINE                                                                                                          0.60  
+                                                                                                                                     
+ TOTAL ISSUER REIMB FEES                                                                               149.13                 24.32  
+ NET   ISSUER REIMB FEES                                                                               124.81                        
+                                                                                                                                     
+                                                                                                                                     
+                                                    *** END OF VSS-130 REPORT ***                                                    
